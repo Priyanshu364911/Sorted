@@ -1,3 +1,5 @@
+DEMO -- https://sorted-eight.vercel.app/
+
 # Sorting Algorithm Visualizer
 
 An interactive web application that visualizes various sorting algorithms in real-time. Built with React and Vite, this tool helps users understand how different sorting algorithms work by providing animated visual representations.
